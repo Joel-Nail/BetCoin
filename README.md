@@ -3,4 +3,6 @@ Blockchain-based platform for creating polls, voting on polls, and betting on th
 
 The frontend is currently nonfunctional, but work-in-progress code has been uploaded. The smart contract is functional but contains numerous security concerns and is only intended to serve as a proof-of-concept
 
+Please read the final report or view the final presentation (project-deliverables folder) for more information about this project including motivations, technical details, and necessary future work
+
 [Final Presentation on Canva](https://www.canva.com/design/DAFgg6BEGWQ/SsN90o6KblGJbkXnjufbHw/view?utm_content=DAFgg6BEGWQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
